@@ -8,3 +8,5 @@ This repository is built step by step in the tutorial.
 It now includes steps for GitHub
 
 New line added to test pushing branch to GitHub
+
+New line added to test amend
